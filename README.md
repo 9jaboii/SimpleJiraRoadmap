@@ -1,6 +1,6 @@
 # SimpleJiraRoadmap
 
-This is a simple JIRA roadmap that Demonstrates how to accomplish the following the task:
+This is a simple JIRA roadmap that demonstrates accomplishment of the following the task:
 1. Create workspaces and set up projects.
 2. Create issues in backlog (Epic, tasks, Story or bug fix)
 3. Importing backlog issues from spreadsheet during migration from different application.
